@@ -35,7 +35,9 @@ class Player {
   }
 }
 
-/* const player1 = new Player(new ConquistarEuropaObjective());
+
+/*
+console.log(objetivo1);const player1 = new Player(new ConquistarEuropaObjective());
 const objetivo1 = player1.executeCurrentObjective();
 
 console.log(objetivo1);

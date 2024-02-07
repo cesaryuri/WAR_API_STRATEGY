@@ -1,3 +1,4 @@
+// Importando as dependências necessárias
 const express = require("express");
 const app = express();
 const { DerrotarPlayerAzulObjective, ConquistarEuropaObjective, Player } = require("./Objetivos_Strategy");
@@ -21,8 +22,7 @@ const playersData = [
 // Rota para obter todos os jogadores cadastrados
 app.get("/player_info/", (req, res) => {
     res.status(200).json(playersData);
-   
-  });
+});
 
 // Rota para obter informações de um jogador específico
 app.get("/player_info/:index", (req, res) => {
@@ -35,6 +35,8 @@ app.get("/player_info/:index", (req, res) => {
   }
 });
 
-app.listen(4000, () => {
-  console.log("API RODANDO!");
+const server = app.listen(4000, () => {
+  console.log(`API RODANDO na porta ${server.address().port}!`);
 });
+
+module.exports = { app, server };
