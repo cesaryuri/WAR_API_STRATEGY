@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <strong>🚀 Atividade da disciplina de ESW utilizando conhecimentos de API com Node.js, design pattern strategy e TDD para a história mostre como definir algoritmos para diferentes objetivos de cada jogador. 📚</strong>
+  <strong>🚀 Atividade da disciplina de ESW utilizando conhecimentos de API com Node.js, design pattern strategy e TDD para a história, mostre como definir algoritmos para diferentes objetivos de cada jogador. 📚</strong>
 </div>
 
 <div align="center">
