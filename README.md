@@ -53,6 +53,7 @@ Descreva as tecnologias utilizadas no projeto e forneça links para as respectiv
   http://localhost:4000/player_info/1
   ```
   ## 💻 Testes
+- Execute o teste
    Execute no vscode o comando:
   
   ```
