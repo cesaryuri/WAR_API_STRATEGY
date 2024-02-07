@@ -50,4 +50,11 @@ Descreva as tecnologias utilizadas no projeto e forneça links para as respectiv
   http://localhost:4000/player_info/0
   http://localhost:4000/player_info/1
   ```
+  ## 💻 Testes
+   Execute no vscode o comando:
   
+  ```
+  npm run test
+  ```
+   O retorne esperado é:
+  ![image](https://github.com/cesaryuri/WAR_API_STRATEGY/assets/91036277/e4d1be5e-617c-498f-ab39-0ef62e52215b)
