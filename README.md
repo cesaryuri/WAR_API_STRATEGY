@@ -7,9 +7,7 @@
 </div>
 
 <div align="center">
-  <p>Um repositório incrível com um projeto espetacular! 🎉</p>
-  <p>Aqui você encontrará informações sobre o projeto, tecnologias utilizadas, instruções para configurar o ambiente de desenvolvimento e muito mais.</p>
-  
+  <p>Aqui você encontrará informações sobre o projeto, tecnologias utilizadas, instruções para configurar o ambiente de desenvolvimento.</p>
 </div>
 
 ## 🔭 Visão Geral
@@ -22,15 +20,34 @@ Basicamente o codigo permite a implementação de vários objetivos do jogo war 
 
 Descreva as tecnologias utilizadas no projeto e forneça links para as respectivas documentações ou sites oficiais.
 
-## ⚙️ Configuração do Ambiente
+## 🚀 Executando o Projeto
 
-Forneça instruções claras e detalhadas sobre como configurar o ambiente de desenvolvimento localmente. Isso pode incluir:
-
-- Pré-requisitos
+- Clone o repisitório
+   ```
+   git clone https://github.com/cesaryuri/WAR_API_STRATEGY.git
+   ```
 - Instalação de dependências
-- Configuração do banco de dados
-- Configuração de variáveis de ambiente
-- Execução de migrações ou scripts de inicialização
-- ...
+    No terminal do projeto já aberto no vscode, garantindo que já tenha instalado o node.js, execute:
+   ```
+   npm install express
+   npm install nodemon
+   ```
+- Execute o servidor
+    Abra o terminal do vscode na pasta do projeto e digite:
 
-Certifique-se de fornecer exemplos de comandos ou scripts necessários para executar o projeto corretamente.
+   ```
+   node index.js
+   ```
+- Acesse a aplicação
+   Abra o seu navegador e digite o seguinte endereço para listar todos os players e objetivos disponiveis:
+
+  ```
+  http://localhost:4000/player_info/
+  ```
+   No momento há apenas dois objetivos para dois players disponíveis logo só há apenas dois comandos disponiveis dado o índice do array:
+  
+  ```
+  http://localhost:4000/player_info/0
+  http://localhost:4000/player_info/1
+  ```
+  
