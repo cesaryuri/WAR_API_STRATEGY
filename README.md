@@ -33,7 +33,6 @@ Descreva as tecnologias utilizadas no projeto e forneça links para as respectiv
    ```
    npm install express
    npm install jest
-   npm install nodemon
    ```
 - Execute o servidor
     Abra o terminal do vscode na pasta do projeto e digite:
