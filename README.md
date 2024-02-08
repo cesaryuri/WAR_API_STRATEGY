@@ -42,7 +42,7 @@ Descreva as tecnologias utilizadas no projeto e forneça links para as respectiv
    node index.js
    ```
 - Acesse a aplicação
-   Abra o seu navegador e digite o seguinte endereço para listar todos os players e objetivos disponiveis:
+   Abra o seu navegador ou postman e digite o seguinte endereço para listar todos os players e objetivos disponiveis através de uma requisição get:
 
   ```
   http://localhost:4000/player_info/
