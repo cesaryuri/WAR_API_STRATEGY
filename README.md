@@ -17,8 +17,7 @@ Basicamente o codigo permite a implementação de vários objetivos do jogo war 
 ## 💻 Tecnologias
 
 - Node.JS
-
-Descreva as tecnologias utilizadas no projeto e forneça links para as respectivas documentações ou sites oficiais.
+- Java Script 
 
 ## 🚀 Executando o Projeto
 
