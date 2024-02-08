@@ -28,10 +28,11 @@ Descreva as tecnologias utilizadas no projeto e forneça links para as respectiv
    git clone https://github.com/cesaryuri/WAR_API_STRATEGY.git
    ```
 - Instalação de dependências
-    No terminal do projeto já aberto no vscode, garantindo que já tenha instalado o node.js, execute:
+    No terminal do projeto já aberto no vscode, garantindo que já tenha instalado o node.js versão 20 ou maior, execute:
   
    ```
    npm install express
+   npm install jest
    npm install nodemon
    ```
 - Execute o servidor
