@@ -16,8 +16,8 @@ Basicamente o codigo permite a implementação de vários objetivos do jogo war 
 
 ## 💻 Tecnologias
 
-- Node.JS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-- Java Script <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+- Node.JS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" width="17" />
+- Java Script <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JS" width="17"/>
           
 
 ## 🚀 Executando o Projeto
